@@ -25,3 +25,7 @@ dist-ssr
 
 .env
 .env.local
+
+# (backend)
+server/.env
+server/node_modules
